@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdrianZajaczkowski
 - 👀 I’m interested in Python and Norse mythology
-- 🌱 I’m currently learning Tkinter, Git, Django
+- 🌱 I’m currently learning Tkinter, Git&GitHub
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
